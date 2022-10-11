@@ -8,3 +8,9 @@
     margin: 20px;
     color: white;
 }
+.header h2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: white;
+}
