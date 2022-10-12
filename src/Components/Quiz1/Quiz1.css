@@ -1,8 +1,10 @@
 .questionlogo img{
     width: 200px;
     height: 200px;
+    padding: 10px;
 }
 
 .questionlogo{
-    margin-bottom: 20px;
+    background-color: rosybrown;
+    margin: 20px;
 }
