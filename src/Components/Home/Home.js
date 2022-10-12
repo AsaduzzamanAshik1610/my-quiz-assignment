@@ -1,6 +1,7 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 import HomeSite from '../HomeSite/HomeSite';
+import Main from '../Main/Main';
 import Topics from '../Topics/Topics';
 import './Home.css'
 const Home = () => {

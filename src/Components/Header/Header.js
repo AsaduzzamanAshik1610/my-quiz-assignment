@@ -4,10 +4,10 @@ import './Header.css'
 const Header = () => {
     return (
         <nav className='header'>
-            <Link to='/home'>Home</Link>
-            <Link to='/chart'>Chart</Link>
-            <Link to='/blog'>Blog</Link>
-            <h2>Exam Crackers</h2>
+            <button><Link to='/home'>Home</Link></button>
+            <button><Link to='/chart'>Chart</Link></button>
+            <button><Link to='/blog'>Blog</Link></button>
+            <h2>Quiz App</h2>
         </nav>
     );
 };
