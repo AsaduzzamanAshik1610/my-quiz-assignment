@@ -2,4 +2,8 @@
     background-color:black;
     color: white;
     font-size: medium;
+    margin: 20px;
+}
+.question svg{
+    width: 70px;
 }
